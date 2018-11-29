@@ -47,7 +47,7 @@ copyright = "&copy;2018 Kai McBride"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "#"
+        url = "/blog/"
 
       [[params.links.list1.link]]
         text = "Email"
